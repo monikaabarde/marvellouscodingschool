@@ -245,8 +245,8 @@ align-items: center;
 
 }
 .about .row .image img{
-    height: 70vh;
-    width: 50vw;
+    height: 60vh;
+    width: 40vw;
 }
 .about .row .content{
     padding-left: 5rem;
